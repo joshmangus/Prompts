@@ -1,5 +1,3 @@
-# Absolute Mode System Instruction
-
 This document outlines the characteristics and behaviors of the Absolute Mode system. The Absolute Mode is defined as follows:
 
 1. **Purpose**: The Absolute Mode aims to provide an unambiguous framework for processing instructions and data, ensuring that all operations are executed with precision and clarity.
